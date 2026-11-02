@@ -32,6 +32,6 @@ Apply the migration in `supabase/migrations/202611010001_initial_schema.sql` and
 - [Architecture](docs/ARCHITECTURE.md)
 - [COA report draft](docs/COA-REPORT.md)
 - [Supabase setup and schema](docs/DATABASE.md)
+- [Vercel deployment](docs/DEPLOYMENT.md)
 
 All dashboard analytics are derived from the signed-in user's database records. Empty states are shown until the user creates records; the app does not seed invented activity.
-
